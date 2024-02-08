@@ -1,1 +1,1 @@
-FROM python:3.9-bullseye
+FROM python:3.9-bullseye@sha256:67f95bcd39b010304e7e783a1172404e2b6c7dd08cacf6685bb9da2645eda1b0
